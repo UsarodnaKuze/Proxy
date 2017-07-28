@@ -1,0 +1,20 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "Proxy for separate development of FE and BE",
+  "main": "proxy.js",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "proxy",
+    "seaparate",
+    "development"
+  ],
+  "author": "CA",
+  "license": "ISC"
+}
